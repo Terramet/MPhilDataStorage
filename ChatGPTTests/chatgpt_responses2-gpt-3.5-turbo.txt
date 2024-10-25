@@ -1,0 +1,64 @@
+Message: I am so happy today! Everything is going great.
+Response: That's wonderful to hear! It's always nice to have days like that. Enjoy every moment of your happiness!
+Time Taken: 0.91 seconds
+==================================================
+Message: I am very sad and disappointed by the news.
+Response: I'm sorry to hear that. Would you like to talk about what's been bothering you?
+Time Taken: 0.69 seconds
+==================================================
+Message: I am so angry at the situation!
+Response: I'm sorry to hear that you're feeling this way. It's important to find healthy ways to manage and cope with anger. Are you looking for any advice or support in dealing with your feelings?
+Time Taken: 0.95 seconds
+==================================================
+Message: This is so scary and frightening.
+Response: I understand that feeling. It's normal to feel scared when faced with something frightening. It's important to remember to take deep breaths and try to calm yourself down. Remember that you are not alone and there are people who can help you through these feelings. It's okay to seek support when you need it. Take care of yourself.
+Time Taken: 1.41 seconds
+==================================================
+Message: I am just so disgusted by what happened.
+Response: I'm sorry to hear that you're feeling this way. Would you like to talk about what happened and how it made you feel? Sometimes talking about our feelings and experiences can help process and cope with difficult situations.
+Time Taken: 1.07 seconds
+==================================================
+Message: The sun is shining and the birds are singing. It's a beautiful day to be alive. I feel so grateful for all the wonderful things in my life. I have a loving family, great friends, and a job that I am passionate about. Days like today make me feel like all the hard work has paid off and I can truly appreciate the beauty of life.
+Response: I take a moment to soak in the warmth of the sun on my skin and listen to the melodies of the birds. I feel a sense of peace and contentment wash over me. It's moments like these that remind me to be present and appreciate the simple joys in life.
+
+I take a deep breath and feel a sense of gratitude fill me up. I am thankful for all the blessings in my life and for the opportunity to experience days like today. I make a mental note to carry this feeling of gratitude with me throughout the day and to spread positivity and kindness wherever I go.
+
+As I continue to bask in the beauty of the day, I am reminded of how precious life truly is. I vow to make the most of each moment and to never take anything for granted. Today is a gift, and I am determined to make it count.
+Time Taken: 2.96 seconds
+==================================================
+Message: Today I received some heartbreaking news. A dear friend of mine passed away unexpectedly. The shock and sorrow I feel are overwhelming. We had so many plans together, so many dreams left unfulfilled. It's hard to imagine life without them. This loss leaves a void that can never be filled.
+Response: 
+
+I find myself in disbelief, struggling to come to terms with the reality of their absence. Memories of our time together flood my mind, bringing both comfort and pain. I will always cherish the moments we shared and hold them close to my heart.
+
+My friend was a shining light in my life, someone I could always count on for support and understanding. Their presence brought joy and laughter into my world, and their loss has left a profound emptiness in my soul.
+
+I know that in time, the pain will ease, and the memories will bring a smile to my face instead of tears to my eyes. But for now, I mourn the loss of a beautiful soul, taken from this world too soon.
+
+Rest in peace, my dear friend. You will always hold a special place in my heart.
+Time Taken: 3.43 seconds
+==================================================
+Message: I am furious about the latest policy changes at work. They were implemented without any consultation with the staff, and they make our jobs much harder. It feels like management doesn't care about our well-being or input. This kind of disregard is unacceptable, and I won't stand for it.
+Response: I plan on speaking up and voicing my concerns to the higher-ups. It's important for them to understand the impact these changes are having on our work environment and morale. I also want to rally my coworkers to join me in expressing our discontent. We shouldn't have to accept policies that make our jobs more difficult without any say in the matter.
+
+If necessary, I will look into other options, such as seeking advice from HR or possibly even considering finding a new job where my input and well-being are valued. It's important to stand up for ourselves and ensure that our voices are heard in the workplace.
+Time Taken: 1.94 seconds
+==================================================
+Message: Walking through the dark alley, I could feel my heart racing. Every sound seemed amplified, and the shadows looked like they were moving. I couldn't shake the feeling that someone was following me. It was one of the most terrifying experiences I've ever had. I just wanted to get out of there as quickly as possible.
+Response: 
+
+I picked up my pace, my footsteps echoing off the walls, creating an eerie soundtrack to my fear. I could hear the rustling of garbage in the bins and the distant sound of traffic, but nothing seemed to reassure me that I was safe.
+
+As I turned a corner, I could see the faint glow of the streetlights up ahead, beckoning me to safety. I quickened my steps, my heart pounding in my chest. I felt a wave of relief wash over me as I finally stepped out of the alley and into the light.
+
+I looked back over my shoulder, half expecting to see someone or something lurking in the darkness. But there was nothing there, just the empty alley stretching out behind me. I shivered, grateful to have made it out unscathed.
+
+I hurried home, vowing to never walk through that alley again. The fear and paranoia that had gripped me in those dark moments lingered long after I had reached the safety of my own doorstep. It was a reminder to always trust my instincts and never underestimate the power of fear in the shadows.
+Time Taken: 3.44 seconds
+==================================================
+Message: The food at that restaurant was absolutely disgusting. The meat was undercooked, the vegetables were soggy, and there was a strange smell coming from the kitchen. I felt nauseous just being there. It's unacceptable to serve such poor quality food to customers.
+Response: 
+
+It's clear that the restaurant lacked proper hygiene and quality standards. It's important for restaurants to prioritize the health and satisfaction of their customers by serving fresh and properly cooked food. It's concerning that they would serve such subpar dishes and I hope they take immediate steps to improve their food quality and overall dining experience. I would not recommend dining there to anyone.
+Time Taken: 1.46 seconds
+==================================================

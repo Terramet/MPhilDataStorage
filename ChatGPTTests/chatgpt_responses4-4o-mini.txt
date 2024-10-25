@@ -1,0 +1,56 @@
+Message: I am so happy today! Everything is going great.
+Response: That's wonderful to hear! What’s been making your day so great?
+Time Taken: 1.04 seconds
+==================================================
+Message: I am very sad and disappointed by the news.
+Response: I'm sorry to hear that you're feeling this way. It's completely normal to feel sad or disappointed, especially in response to difficult news. If you’d like to talk about what's bothering you or if there's anything specific on your mind, I’m here to listen and help however I can.
+Time Taken: 1.16 seconds
+==================================================
+Message: I am so angry at the situation!
+Response: I’m sorry to hear that you’re feeling this way. It’s completely normal to feel angry sometimes. If you’d like to talk about what’s bothering you, I’m here to listen and help if I can.
+Time Taken: 0.86 seconds
+==================================================
+Message: This is so scary and frightening.
+Response: I'm sorry to hear that you're feeling this way. It's completely normal to feel scared or anxious at times. If you'd like to talk about what's on your mind, I'm here to listen and help in any way I can.
+Time Taken: 1.34 seconds
+==================================================
+Message: I am just so disgusted by what happened.
+Response: I'm sorry to hear that you're feeling this way. It's completely understandable to feel upset or disgusted by certain events or situations. If you’d like to talk about what happened or share your thoughts, I’m here to listen.
+Time Taken: 1.62 seconds
+==================================================
+Message: The sun is shining and the birds are singing. It's a beautiful day to be alive. I feel so grateful for all the wonderful things in my life. I have a loving family, great friends, and a job that I am passionate about. Days like today make me feel like all the hard work has paid off and I can truly appreciate the beauty of life.
+Response: It's wonderful to hear such positive reflections! Those moments of gratitude and appreciation for the little things in life can really elevate our spirits. It’s amazing how a beautiful day can inspire profound feelings and remind us of the blessings we have, like supportive relationships and fulfilling work. Embracing these feelings can foster a deeper sense of well-being and joy. Have you thought about ways to share this gratitude with others or perhaps capture this moment in a creative way?
+Time Taken: 1.69 seconds
+==================================================
+Message: Today I received some heartbreaking news. A dear friend of mine passed away unexpectedly. The shock and sorrow I feel are overwhelming. We had so many plans together, so many dreams left unfulfilled. It's hard to imagine life without them. This loss leaves a void that can never be filled.
+Response: I'm truly sorry to hear about your friend. Losing someone so dear is an incredibly painful experience, and it's completely understandable to feel overwhelmed by the shock and sorrow. It's important to allow yourself to grieve and to feel all the emotions that come with such a loss. Cherish the memories you shared and the dreams you had together, as they will always be a part of you. If you feel comfortable, talking about your friend or reaching out to others who knew them can provide some solace during this difficult time. Remember, it's okay to seek support, whether from friends, family, or professional resources, as you navigate through this profound sadness. You are not alone in this.
+Time Taken: 2.29 seconds
+==================================================
+Message: I am furious about the latest policy changes at work. They were implemented without any consultation with the staff, and they make our jobs much harder. It feels like management doesn't care about our well-being or input. This kind of disregard is unacceptable, and I won't stand for it.
+Response: It's completely understandable to feel upset about the recent policy changes, especially when they impact your work and well-being. When decisions are made without consulting the staff, it can create a sense of frustration and disconnect. It’s important to express these feelings in a constructive way. Consider organizing your thoughts and perhaps discussing your concerns with a trusted colleague or supervisor. You might also think about raising these issues in a staff meeting or suggesting a forum where everyone can voice their feedback. Advocacy for your team can be a powerful way to push for change and show management that employee input is valuable. You're not alone in this, and finding a way to communicate your concerns effectively can help initiate a more inclusive dialogue.
+Time Taken: 2.25 seconds
+==================================================
+Message: Walking through the dark alley, I could feel my heart racing. Every sound seemed amplified, and the shadows looked like they were moving. I couldn't shake the feeling that someone was following me. It was one of the most terrifying experiences I've ever had. I just wanted to get out of there as quickly as possible.
+Response: I quickened my pace, the echo of my footsteps mixing with the distant sounds of the city beyond the walls of the alley. The dim light flickering overhead cast eerie shapes on the brick, making the alley feel like a maze designed to trap me. 
+
+I glanced over my shoulder, half-expecting to see a figure lurking just beyond the edge of light. Nothing. Just the oppressive darkness. But the feeling of being watched grew stronger, a prickling sensation crawling up my spine. 
+
+I tried to rationalize my fear. Maybe it was just the shadows playing tricks on my mind. After all, I had taken this shortcut many times before, but tonight felt different—more sinister. The air was thick, and the usual sounds of the city—a distant siren, the hum of traffic—seemed muffled, as if the world outside had chosen to ignore my plight.
+
+I reached into my pocket for my phone, fingers trembling as I fumbled for the screen. The soft glow provided some comfort, but I knew I couldn't rely on it. My instincts screamed for me to move faster. 
+
+Suddenly, I heard it—a soft scuffle, like something scraping against the ground. My heart stopped. I turned to face the sound, every muscle in my body tensed and ready to run. 
+
+The alley was empty. But then, a shadow shifted at the far end, just beyond the spill of light. Panic surged through me, and I took off down the alley, the cobblestones uneven beneath my feet. I could almost hear the breathing of whatever was behind me, quickening in rhythm with my own, a ghostly accompaniment fueling my terror.
+
+As I sprinted, the alley seemed to elongate, stretching further away from the reassuring glow of the streetlights. I didn’t dare look back again, not wanting to confirm my fears. 
+
+When I finally reached the end of the alley, my body felt like it was on fire—each step was an effort, but I pressed on, bursting into the open street where the warmth of light and life surrounded me. I turned to glance back one last time, expecting to see someone emerge from the shadows.
+
+Nothing. Just the alley, dark and silent once more. The fear still pulsed in my veins, but I was free. For now.
+Time Taken: 7.28 seconds
+==================================================
+Message: The food at that restaurant was absolutely disgusting. The meat was undercooked, the vegetables were soggy, and there was a strange smell coming from the kitchen. I felt nauseous just being there. It's unacceptable to serve such poor quality food to customers.
+Response: It sounds like you had a really unpleasant experience at that restaurant. Undercooked meat and soggy vegetables can definitely be signs of poor food preparation, and a strange smell is certainly concerning. It's understandable that you would feel nauseous in that environment. Restaurants should prioritize food safety and quality, as well as creating a pleasant atmosphere for their customers. Hopefully, sharing your feedback will encourage them to improve their standards. Did you have a chance to speak to the management about your experience?
+Time Taken: 1.82 seconds
+==================================================

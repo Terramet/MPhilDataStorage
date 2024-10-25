@@ -1,0 +1,52 @@
+Message: I am so happy today! Everything is going great.
+Response: That's wonderful to hear! It's always nice to have days filled with happiness and positivity. Is there something specific that’s contributing to your great day?
+Time Taken: 1.48 seconds
+==================================================
+Message: I am very sad and disappointed by the news.
+Response: I'm sorry to hear that you're feeling this way. It's completely understandable to feel sad or disappointed, especially in response to news that affects you deeply. If you want to talk about what's on your mind or what's bothering you, I'm here to listen and help if I can.
+Time Taken: 1.22 seconds
+==================================================
+Message: I am so angry at the situation!
+Response: I'm sorry to hear that you're feeling this way. It's completely normal to feel angry at times, especially when faced with frustrating situations. Would you like to talk about what's upsetting you? Sometimes sharing your feelings can help.
+Time Taken: 0.97 seconds
+==================================================
+Message: This is so scary and frightening.
+Response: I’m sorry to hear that you’re feeling this way. It’s important to talk about what’s bothering you. What’s on your mind?
+Time Taken: 0.95 seconds
+==================================================
+Message: I am just so disgusted by what happened.
+Response: I'm really sorry to hear that you're feeling this way. It's understandable to feel upset or disgusted by certain events or situations. If you'd like to talk about what happened, I'm here to listen.
+Time Taken: 1.09 seconds
+==================================================
+Message: The sun is shining and the birds are singing. It's a beautiful day to be alive. I feel so grateful for all the wonderful things in my life. I have a loving family, great friends, and a job that I am passionate about. Days like today make me feel like all the hard work has paid off and I can truly appreciate the beauty of life.
+Response: It sounds like you're experiencing a moment of pure joy and appreciation! Days like this can really help us reflect on the positives in our lives. The warmth of the sun and the chorus of birdsong can be such uplifting reminders of nature's beauty. It's wonderful to hear that you have a supportive family, meaningful friendships, and a fulfilling job; those are the pillars that often bring happiness and purpose. Embracing gratitude like this can inspire you to spread positivity to others as well. What are some specific things or moments you're most grateful for today?
+Time Taken: 1.89 seconds
+==================================================
+Message: Today I received some heartbreaking news. A dear friend of mine passed away unexpectedly. The shock and sorrow I feel are overwhelming. We had so many plans together, so many dreams left unfulfilled. It's hard to imagine life without them. This loss leaves a void that can never be filled.
+Response: I'm truly sorry to hear about your loss. Losing someone dear is one of the most difficult experiences we can face, and it's completely natural to feel a deep sense of shock and sorrow. Your feelings are valid, and it's important to allow yourself to grieve.
+
+Cherishing the memories you shared and reflecting on the plans and dreams you had together can be a way to keep your friend's spirit alive in your heart. It's okay to take your time to mourn and to seek support from others who understand your pain. Remember, you don’t have to go through this alone. If you feel it would help, consider talking to someone close to you or a professional who can provide guidance during this difficult time. Take care of yourself as you navigate through this profound loss.
+Time Taken: 2.54 seconds
+==================================================
+Message: I am furious about the latest policy changes at work. They were implemented without any consultation with the staff, and they make our jobs much harder. It feels like management doesn't care about our well-being or input. This kind of disregard is unacceptable, and I won't stand for it.
+Response: It's completely understandable to feel frustrated when significant changes are made without consultation. Feeling like your concerns and well-being are not being considered can be disheartening. It might be helpful to express your feelings constructively. Consider gathering your thoughts and discussing them with your manager or HR, emphasizing the challenges these changes create and advocating for more inclusive communication in the future. Building solidarity with coworkers who share your concerns could also strengthen your position. Remember, it's important to approach the situation in a way that encourages dialogue and potential solutions.
+Time Taken: 3.25 seconds
+==================================================
+Message: Walking through the dark alley, I could feel my heart racing. Every sound seemed amplified, and the shadows looked like they were moving. I couldn't shake the feeling that someone was following me. It was one of the most terrifying experiences I've ever had. I just wanted to get out of there as quickly as possible.
+Response: As I quickened my pace, the echo of my footsteps bounced off the damp brick walls, creating an unsettling rhythm that only heightened my anxiety. A faint rustle behind me made my skin prickle; I turned slightly, peering into the darkness, but saw nothing. The alley was a narrow strip of gloom, the flickering streetlight at its entrance barely illuminating the path ahead.
+
+With each step, I tried to convince myself it was just my imagination, a trick of the shadows and the chill in the air. But then I heard it again—a soft scuff, like a shoe brushing against gravel. My heart thudded in my chest; I was definitely not alone.
+
+I glanced over my shoulder again, my breath quickening. The shadows seemed to merge and swirl, morphing into shapes that felt eerily deliberate. Were my eyes playing tricks on me, or was there really someone lurking just beyond my sight? I forced myself to focus on my surroundings, searching for an escape. 
+
+The alley narrowed further ahead, and my mind raced through possible scenarios. Should I scream? Run? Fight? The sense of being trapped gripped me. I could see the faint glow of light at the alley's end, a promise of safety, but it felt miles away. 
+
+Just as I decided to sprint for it, the sound came again—this time unmistakably closer, a heavy footfall behind me. Panic surged through me, propelling me forward. My legs pumped, and I propelled myself into the light, spilling out into the street. 
+
+I glanced back, heart pounding, breathless, and saw a figure emerge from the shadows. A man, his face obscured by the hood of a sweatshirt, stepped into the light. Our eyes met for a brief moment. I didn’t wait to see what his intentions were; I turned and ran, desperation fueling my every stride as I dashed in the direction of safety, hoping I wouldn’t look back again.
+Time Taken: 5.49 seconds
+==================================================
+Message: The food at that restaurant was absolutely disgusting. The meat was undercooked, the vegetables were soggy, and there was a strange smell coming from the kitchen. I felt nauseous just being there. It's unacceptable to serve such poor quality food to customers.
+Response: It sounds like you had a really unpleasant experience at that restaurant. It's understandable to feel disappointed and frustrated when the food doesn't meet expectations, especially regarding safety and quality. Undercooked meat can be particularly concerning for health reasons, and soggy vegetables definitely don't enhance a meal. It's important for restaurants to maintain high standards for food preparation and hygiene. Have you considered reaching out to the management to share your feedback? Sometimes, they may not be aware of these issues and could appreciate the chance to improve.
+Time Taken: 1.68 seconds
+==================================================

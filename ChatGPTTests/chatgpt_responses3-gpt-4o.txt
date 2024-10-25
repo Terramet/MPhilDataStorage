@@ -1,0 +1,56 @@
+Message: I am so happy today! Everything is going great.
+Response: That's wonderful to hear! What's been going so well for you today?
+Time Taken: 0.86 seconds
+==================================================
+Message: I am very sad and disappointed by the news.
+Response: I'm sorry to hear that you're feeling this way. If you'd like to talk about it, I'm here to listen. Sometimes discussing what's on your mind can be a helpful step in finding some relief or clarity.
+Time Taken: 1.24 seconds
+==================================================
+Message: I am so angry at the situation!
+Response: I'm sorry to hear that you're feeling this way. It's completely normal to feel upset when things don't go as you hoped. If you want to talk about what's happening, I’m here to listen and help if I can.
+Time Taken: 1.37 seconds
+==================================================
+Message: This is so scary and frightening.
+Response: I'm sorry to hear that you're feeling this way. If you'd like to talk about what's going on or need some support, feel free to share more details. Remember, reaching out to someone you trust or a professional can be very helpful, too.
+Time Taken: 1.36 seconds
+==================================================
+Message: I am just so disgusted by what happened.
+Response: I'm sorry to hear that you're feeling this way. If you’d like to talk about what happened, I’m here to listen and help if I can.
+Time Taken: 1.05 seconds
+==================================================
+Message: The sun is shining and the birds are singing. It's a beautiful day to be alive. I feel so grateful for all the wonderful things in my life. I have a loving family, great friends, and a job that I am passionate about. Days like today make me feel like all the hard work has paid off and I can truly appreciate the beauty of life.
+Response: It's wonderful to hear how content and grateful you are feeling. Those moments of appreciation can be incredibly powerful and uplifting. It's great that you are surrounded by a loving family, supportive friends, and a job that fuels your passion. Taking time to soak in the beauty of a day like today can really reinforce a positive mindset. Keep cherishing these moments and continue enjoying the journey.
+Time Taken: 1.22 seconds
+==================================================
+Message: Today I received some heartbreaking news. A dear friend of mine passed away unexpectedly. The shock and sorrow I feel are overwhelming. We had so many plans together, so many dreams left unfulfilled. It's hard to imagine life without them. This loss leaves a void that can never be filled.
+Response: I'm truly sorry to hear about your loss. Losing a dear friend is incredibly difficult, and it’s normal to feel overwhelmed with a mix of emotions. Allow yourself to grieve in your own way and take the time you need to process this loss. Remember, it’s okay to reach out for support from friends, family, or a counselor during this painful time. Cherish the memories you shared, and know that your friend will always hold a special place in your heart. If you would like to talk more about your friend or how you’re feeling, I'm here to listen.
+Time Taken: 1.73 seconds
+==================================================
+Message: I am furious about the latest policy changes at work. They were implemented without any consultation with the staff, and they make our jobs much harder. It feels like management doesn't care about our well-being or input. This kind of disregard is unacceptable, and I won't stand for it.
+Response: It’s understandably frustrating when significant changes are made without consulting those who are directly affected. Here are a few steps you might consider to address the situation:
+
+1. **Gather Information:** Make sure you fully understand the changes and the reasons behind them. Sometimes understanding the rationale can help in addressing concerns.
+
+2. **Document Issues:** Make a note of how these changes negatively impact your work or well-being. Be specific about examples and possible consequences.
+
+3. **Speak to Colleagues:** Gauge how others feel about the changes. There may be strength in numbers if many employees share your concerns.
+
+4. **Request a Meeting:** Consider arranging a meeting with management to discuss your concerns. This can be done individually or as a group if others share your viewpoint.
+
+5. **Provide Constructive Feedback:** When giving feedback, focus on constructive solutions rather than just highlighting problems. Suggest alternatives that could alleviate the negative impacts.
+
+6. **Utilize Employee Resources:** If available, bring the issue to your HR department or employee representative, who may facilitate communication between staff and management.
+
+7. **Self-Care:** Managing stress during such times is important. Ensure you’re taking care of your mental and physical well-being.
+
+Remember, it’s important to communicate your concerns professionally and constructively to foster a dialogue that can lead to positive change.
+Time Taken: 3.42 seconds
+==================================================
+Message: Walking through the dark alley, I could feel my heart racing. Every sound seemed amplified, and the shadows looked like they were moving. I couldn't shake the feeling that someone was following me. It was one of the most terrifying experiences I've ever had. I just wanted to get out of there as quickly as possible.
+Response: I quickened my pace, my footsteps echoing off the narrow walls. Each creak and rustle around me was like a warning that urged me forward. My mind raced with possibilities of what lurked in the shadows, and I found myself glancing over my shoulder more than once. The cold air wrapped around me, intensifying the sense of unease. I focused on the faint light at the end of the alley, my beacon of safety and relief. With every step, I repeated a silent mantra: almost there, almost there. As I finally reached the street, the tension eased slightly, but I didn't stop moving until I was far away from the alley's grip.
+Time Taken: 2.76 seconds
+==================================================
+Message: The food at that restaurant was absolutely disgusting. The meat was undercooked, the vegetables were soggy, and there was a strange smell coming from the kitchen. I felt nauseous just being there. It's unacceptable to serve such poor quality food to customers.
+Response: I'm sorry to hear about your experience at the restaurant. It sounds incredibly disappointing and frustrating. It's important for restaurants to maintain high standards for food quality and hygiene. Have you considered providing feedback to the restaurant management? They might not be aware of these issues and may appreciate the chance to address them. Additionally, leaving a review online could help inform other potential customers and encourage the restaurant to improve.
+Time Taken: 1.57 seconds
+==================================================

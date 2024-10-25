@@ -1,0 +1,54 @@
+Message: I am so happy today! Everything is going great.
+Response: That's wonderful to hear! It's always uplifting to have days like that. What’s been making your day so great?
+Time Taken: 0.78 seconds
+==================================================
+Message: I am very sad and disappointed by the news.
+Response: I'm sorry to hear that you're feeling this way. It can be difficult to process disappointing news. If you'd like to talk about what's on your mind, I'm here to listen.
+Time Taken: 0.84 seconds
+==================================================
+Message: I am so angry at the situation!
+Response: I'm sorry to hear that you're feeling this way. It's completely normal to feel angry when things don't go as planned. If you’d like to talk about what’s bothering you, I’m here to listen and help if I can.
+Time Taken: 1.08 seconds
+==================================================
+Message: This is so scary and frightening.
+Response: I'm sorry to hear that you're feeling this way. It's important to talk about your feelings. What specifically is making you feel scared or frightened?
+Time Taken: 0.80 seconds
+==================================================
+Message: I am just so disgusted by what happened.
+Response: I'm really sorry to hear that you're feeling this way. It's completely understandable to have strong emotions about difficult situations. If you'd like to share what happened or talk about it, I'm here to listen.
+Time Taken: 1.08 seconds
+==================================================
+Message: The sun is shining and the birds are singing. It's a beautiful day to be alive. I feel so grateful for all the wonderful things in my life. I have a loving family, great friends, and a job that I am passionate about. Days like today make me feel like all the hard work has paid off and I can truly appreciate the beauty of life.
+Response: It sounds like you're experiencing a wonderful moment of gratitude and appreciation! It's amazing how nature can enhance our feelings and remind us of the positive aspects of our lives. Taking a moment to reflect on the people and things that bring us joy can really help us stay grounded and motivated. Do you have any special plans to enjoy this beautiful day?
+Time Taken: 1.25 seconds
+==================================================
+Message: Today I received some heartbreaking news. A dear friend of mine passed away unexpectedly. The shock and sorrow I feel are overwhelming. We had so many plans together, so many dreams left unfulfilled. It's hard to imagine life without them. This loss leaves a void that can never be filled.
+Response: I'm so sorry to hear about your loss. Losing a dear friend is incredibly painful, and it’s natural to feel overwhelmed by the grief. It's important to allow yourself to feel those emotions and to take the time you need to process everything. Remember the good times you shared and the impact they had on your life. It can also be helpful to reach out to others who knew them or to talk about your feelings with someone you trust. You don’t have to go through this alone, and there are people who care and want to support you in this difficult time. Take care of yourself, and honor your friend’s memory in ways that feel meaningful to you.
+Time Taken: 2.51 seconds
+==================================================
+Message: I am furious about the latest policy changes at work. They were implemented without any consultation with the staff, and they make our jobs much harder. It feels like management doesn't care about our well-being or input. This kind of disregard is unacceptable, and I won't stand for it.
+Response: It's completely understandable to feel frustrated in this situation. When policies are implemented without staff input, it can create a sense of disconnection and undervalue the hard work that employees put in. It’s important to express your concerns and advocate for a more inclusive approach to decision-making. 
+
+Consider gathering your thoughts and possibly discussing them with your colleagues. A collective voice can often be more powerful than an individual one. You might also want to request a meeting with management or human resources to share your feedback and feelings about the situation. Focus on how the changes impact your ability to do your job effectively, and suggest possible alternatives or solutions that could benefit both staff and management.
+
+It's essential for management to understand how their decisions affect morale and productivity. Your well-being and input are important, and addressing these issues can lead to a more positive work environment.
+Time Taken: 4.51 seconds
+==================================================
+Message: Walking through the dark alley, I could feel my heart racing. Every sound seemed amplified, and the shadows looked like they were moving. I couldn't shake the feeling that someone was following me. It was one of the most terrifying experiences I've ever had. I just wanted to get out of there as quickly as possible.
+Response: I quickened my pace, focusing on the sound of my own footsteps echoing off the damp walls. I glanced over my shoulder, half-expecting to see a figure lurking just out of sight. The flickering streetlamp at the alley’s mouth felt like an unreachable beacon of safety. 
+
+The distant hum of the city faded into an unsettling silence, broken only by the occasional rustle of a trash bag stirred by the wind. My mind raced with possibilities; was it just my imagination, or was something—or someone—really behind me? I tried to convince myself that it was simply the shadows playing tricks, but my instincts screamed otherwise. 
+
+As I pressed forward, I could hear a faint scuffing sound, barely perceptible at first. My heart leapt into my throat, adrenaline coursing through my veins. I moved to the side, hoping to blend into the darkness, but the sound grew louder, closer. My breath hitched, and I fought the urge to turn around again.
+
+Then, just as I reached the end of the alley, I felt a chill race down my spine. I had to make it to the street before whoever—or whatever—was behind me caught up. I burst into the light of the main road, the warmth of the streetlights enveloping me like a shield. I turned to look back into the depths of the alley, my heart pounding. 
+
+Nothing. Just shadows and silence. 
+
+I took a shaky breath, trying to calm my racing heart, but the adrenaline kept coursing through me. Was it a figment of my overactive imagination, or had I really felt someone following me? I knew I wouldn't be walking that way again anytime soon. As I hurried away from the alley, I vowed to always trust my instincts—because in a world filled with shadows, the unknown is always lurking just out of sight.
+Time Taken: 6.61 seconds
+==================================================
+Message: The food at that restaurant was absolutely disgusting. The meat was undercooked, the vegetables were soggy, and there was a strange smell coming from the kitchen. I felt nauseous just being there. It's unacceptable to serve such poor quality food to customers.
+Response: I'm sorry to hear about your experience at the restaurant. It sounds really disappointing, especially when you expect a good meal. Undercooked meat and soggy vegetables are definitely concerning, and the strange smell adds to the issue. It’s important for restaurants to maintain a high standard of food quality to ensure customer safety and satisfaction. Have you considered sharing your feedback with the restaurant management? They may appreciate the opportunity to address these issues.
+Time Taken: 1.35 seconds
+==================================================

@@ -1,0 +1,62 @@
+Message: I am so happy today! Everything is going great.
+Response: That's wonderful to hear! It's great when everything falls into place and you feel happy. What specific things are making your day so great?
+Time Taken: 0.97 seconds
+==================================================
+Message: I am very sad and disappointed by the news.
+Response: I'm sorry to hear that you're feeling this way. It's completely normal to feel sad and disappointed, especially in response to certain news or events. If you're comfortable sharing, what specifically is making you feel this way? Sometimes talking about it can help.
+Time Taken: 1.13 seconds
+==================================================
+Message: I am so angry at the situation!
+Response: I'm sorry to hear that you're feeling this way. It's completely normal to feel angry sometimes. If you want to talk about what's bothering you, I'm here to listen and help in any way I can.
+Time Taken: 1.19 seconds
+==================================================
+Message: This is so scary and frightening.
+Response: I'm sorry to hear that you're feeling this way. It's important to talk about what you're experiencing. What’s on your mind?
+Time Taken: 0.65 seconds
+==================================================
+Message: I am just so disgusted by what happened.
+Response: I'm sorry to hear that you're feeling this way. What's on your mind? If you'd like to share what happened, I'm here to listen.
+Time Taken: 0.73 seconds
+==================================================
+Message: The sun is shining and the birds are singing. It's a beautiful day to be alive. I feel so grateful for all the wonderful things in my life. I have a loving family, great friends, and a job that I am passionate about. Days like today make me feel like all the hard work has paid off and I can truly appreciate the beauty of life.
+Response: That sounds absolutely wonderful! It's amazing how days like this can lift our spirits and remind us of all the positive aspects of life. The sunshine and the sounds of nature have a special way of enriching our experiences. Feeling grateful for family, friends, and fulfilling work can bring a deep sense of contentment. How do you plan to spend the rest of your day?
+Time Taken: 1.63 seconds
+==================================================
+Message: Today I received some heartbreaking news. A dear friend of mine passed away unexpectedly. The shock and sorrow I feel are overwhelming. We had so many plans together, so many dreams left unfulfilled. It's hard to imagine life without them. This loss leaves a void that can never be filled.
+Response: I'm truly sorry to hear about your loss. It's incredibly difficult to cope with the death of someone you care about, especially when there were so many plans and dreams. Grief can be a heavy burden, and it's natural to feel overwhelmed by the emotions that come with it. Remember that it's okay to take the time you need to process your feelings. Surround yourself with supportive friends or loved ones, and consider sharing memories of your friend—they can provide comfort and help keep their spirit alive in your heart. If you feel comfortable, talking to someone about your feelings or seeking out support can also be very healing. You're not alone in this.
+Time Taken: 2.04 seconds
+==================================================
+Message: I am furious about the latest policy changes at work. They were implemented without any consultation with the staff, and they make our jobs much harder. It feels like management doesn't care about our well-being or input. This kind of disregard is unacceptable, and I won't stand for it.
+Response: It's completely understandable to feel frustrated in this situation. Feeling unheard and unvalued can be deeply demoralizing. It might be helpful to channel that anger into constructive action. Here are a few steps you could consider:
+
+1. **Gather Feedback**: Talk to your colleagues and see if they share your concerns. A united front can often have more impact than an individual voice.
+
+2. **Document Your Concerns**: Write down specific issues you have with the new policies and how they affect your work. Providing concrete examples can strengthen your case.
+
+3. **Request a Meeting**: Consider reaching out to management or HR to express your concerns. Framing it as a desire to improve the workplace could lead to a more productive conversation.
+
+4. **Propose Solutions**: Instead of just highlighting problems, think about potential solutions or compromises that could address your concerns while still aligning with management's goals.
+
+5. **Look for Support**: If your workplace has a union or employee advocacy group, it may be beneficial to reach out to them for support and advice.
+
+6. **Take Care of Yourself**: It's important to manage your stress during times like this. Finding healthy outlets for your emotions, such as exercise or talking to friends, can help.
+
+If the situation doesn't improve, it may be worthwhile to evaluate your long-term options. Remember, your well-being and job satisfaction are important.
+Time Taken: 3.66 seconds
+==================================================
+Message: Walking through the dark alley, I could feel my heart racing. Every sound seemed amplified, and the shadows looked like they were moving. I couldn't shake the feeling that someone was following me. It was one of the most terrifying experiences I've ever had. I just wanted to get out of there as quickly as possible.
+Response: I quickened my pace, the echo of my footsteps bouncing off the brick walls, making it sound like there were multiple pairs of feet behind me. I could hear the faint scuffle of gravel underfoot, and with every step, the anxiety coiled tighter in my chest. My mind raced with possibilities—was it just my imagination, or was someone really lurking in the darkness? 
+
+I tried to focus on my breathing, counting each inhale and exhale to calm myself, but it only made the panic more pronounced. The distant hum of the city felt miles away, drowned out by the thrumming in my ears. As I passed a flickering streetlight, its weak glow illuminated a figure at the end of the alley—briefly, but enough to send chills down my spine.
+
+I turned a corner, hoping to escape the suffocating atmosphere, but the alley seemed endless, twisting and narrowing. The feeling of being watched intensified, a prickling sensation crawling on the back of my neck. I glanced over my shoulder cautiously, half-expecting to see someone creeping closer, but the only thing there was the shadow of a trash can.
+
+My instincts kicked in. I needed to get to a busier street. I pushed myself to run, adrenaline surging. Each stride felt like I was breaking free from the grip of dread, and I refused to look back. I could almost taste the light and safety waiting just beyond the alley. 
+
+With one final burst of speed, I emerged onto the main street, the bright lights and sporadic laughter of passersby flooding me with relief. I turned to look back, heart still pounding, but the alley lay silent behind me, nothing more than a dark passage I'd left behind. Still shaking, I vowed never to walk through there again.
+Time Taken: 5.41 seconds
+==================================================
+Message: The food at that restaurant was absolutely disgusting. The meat was undercooked, the vegetables were soggy, and there was a strange smell coming from the kitchen. I felt nauseous just being there. It's unacceptable to serve such poor quality food to customers.
+Response: I’m sorry to hear about your experience at the restaurant. It’s really disappointing when a dining experience doesn’t meet expectations, especially regarding food safety and quality. Under cooked meat and soggy vegetables could pose health risks and certainly shouldn't be served to customers. It might be worth considering sharing your feedback with the management, as they need to know about these issues. Hopefully, they can improve their food standards and prevent this from happening to others in the future. Have you thought about writing a review or contacting them directly?
+Time Taken: 2.10 seconds
+==================================================

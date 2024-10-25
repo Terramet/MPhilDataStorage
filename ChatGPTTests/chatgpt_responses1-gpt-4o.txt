@@ -1,0 +1,60 @@
+Message: I am so happy today! Everything is going great.
+Response: That's wonderful to hear! It's always great when things are going well. If there's anything specific you'd like to share about your day or talk about, feel free!
+Time Taken: 1.63 seconds
+==================================================
+Message: I am very sad and disappointed by the news.
+Response: I'm sorry to hear that you're feeling this way. If you'd like to share more about what's going on, I'm here to listen. Sometimes talking about it can help.
+Time Taken: 0.82 seconds
+==================================================
+Message: I am so angry at the situation!
+Response: I'm sorry to hear that you're feeling this way. Would you like to talk about what's making you angry? Sometimes expressing your feelings can help.
+Time Taken: 0.86 seconds
+==================================================
+Message: This is so scary and frightening.
+Response: I'm sorry to hear that you're feeling this way. If you're comfortable sharing more about what's going on, I'm here to listen and help as much as I can. Remember, it's always okay to reach out to a friend, family member, or professional for support if you need it.
+Time Taken: 1.74 seconds
+==================================================
+Message: I am just so disgusted by what happened.
+Response: I'm sorry to hear that you're feeling this way. If you'd like to talk about what happened, I'm here to listen and help if I can.
+Time Taken: 0.80 seconds
+==================================================
+Message: The sun is shining and the birds are singing. It's a beautiful day to be alive. I feel so grateful for all the wonderful things in my life. I have a loving family, great friends, and a job that I am passionate about. Days like today make me feel like all the hard work has paid off and I can truly appreciate the beauty of life.
+Response: It's wonderful to hear how uplifted and grateful you're feeling! Taking time to appreciate the beauty in life and acknowledging the positive aspects can truly enhance your well-being. It sounds like you’ve cultivated a healthy balance between personal and professional satisfaction, which is something many people strive for. Enjoy the sunshine and carry this positive energy with you!
+Time Taken: 1.49 seconds
+==================================================
+Message: Today I received some heartbreaking news. A dear friend of mine passed away unexpectedly. The shock and sorrow I feel are overwhelming. We had so many plans together, so many dreams left unfulfilled. It's hard to imagine life without them. This loss leaves a void that can never be filled.
+Response: I'm so sorry to hear about your loss. Losing someone dear is incredibly difficult, and it's understandable that you're feeling overwhelmed right now. It's important to allow yourself to grieve and to lean on friends and family for support during this time. Remember to take care of yourself, and don’t hesitate to reach out for help if you need it. Your friend's memory and the moments you shared together will always be with you.
+Time Taken: 1.64 seconds
+==================================================
+Message: I am furious about the latest policy changes at work. They were implemented without any consultation with the staff, and they make our jobs much harder. It feels like management doesn't care about our well-being or input. This kind of disregard is unacceptable, and I won't stand for it.
+Response: I'm sorry to hear that you're experiencing this frustration at work. It's understandable to feel upset when significant changes are made without consulting those who are directly impacted. Here are a few suggestions on how you might approach the situation:
+
+1. **Gather Information**: Make sure you fully understand the changes and their implications. Sometimes, policies are introduced with a rationale that might not be immediately clear.
+
+2. **Document Your Concerns**: Write down specific issues you and your colleagues face due to the new policies. Concrete examples can be helpful when presenting your case to management.
+
+3. **Seek Support from Colleagues**: Talk with your coworkers to see if they feel similarly. A united front can be more effective in communicating concerns to management.
+
+4. **Communicate with Management**: Request a meeting with your manager or HR to discuss your concerns. Express how these changes are affecting your work and well-being, and offer possible solutions or alternatives.
+
+5. **Explore Employee Channels**: Use any available employee feedback systems or forums to voice your concerns. Some companies have anonymous channels for this purpose.
+
+6. **Take Care of Yourself**: Change can be stressful, so ensure you're looking after your own mental health and well-being during this time.
+
+7. **Consider Long-Term Impact**: Think about how these changes might affect your long-term career goals and whether these align with your values and work environment.
+
+It's important to stand up for a healthy and constructive work environment, and hopefully, management will be open to feedback and willing to make adjustments.
+Time Taken: 4.34 seconds
+==================================================
+Message: Walking through the dark alley, I could feel my heart racing. Every sound seemed amplified, and the shadows looked like they were moving. I couldn't shake the feeling that someone was following me. It was one of the most terrifying experiences I've ever had. I just wanted to get out of there as quickly as possible.
+Response: I quickened my pace, trying to make as little noise as possible. My footsteps echoed off the walls, and I couldn't tell if the sound behind me was my imagination or something more sinister. I took a deep breath and glanced over my shoulder, but the dim light made it hard to see. Every instinct told me to keep moving forward, to find an escape from this oppressive atmosphere.
+
+As I rounded a corner, I saw a faint light in the distance—an opening to the street, where the safety of streetlights and passing cars offered some hope. I focused on that light, counting each step, trying to ignore the creeping sensation on the back of my neck. It was as if the alley itself was alive, trying to draw me deeper into its shadows.
+
+Finally, I burst out onto the street, and the world seemed to broaden and brighten around me. The fear that had constricted my chest slowly released its grip. Still, I couldn't help but glance back one more time, as if to confirm that the darkness hadn't followed me into the light.
+Time Taken: 5.39 seconds
+==================================================
+Message: The food at that restaurant was absolutely disgusting. The meat was undercooked, the vegetables were soggy, and there was a strange smell coming from the kitchen. I felt nauseous just being there. It's unacceptable to serve such poor quality food to customers.
+Response: I'm sorry to hear about your experience at the restaurant. It sounds really disappointing. If you haven't already, it might be helpful to share your feedback directly with the restaurant management. They might not be aware of these issues, and your feedback could help them make improvements. Additionally, leaving a detailed review online can also inform other potential customers about your experience.
+Time Taken: 2.13 seconds
+==================================================

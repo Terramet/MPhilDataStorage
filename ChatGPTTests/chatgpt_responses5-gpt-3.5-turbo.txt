@@ -1,0 +1,60 @@
+Message: I am so happy today! Everything is going great.
+Response: That's wonderful to hear! It's always nice to have days like that. Enjoy the feeling and embrace the positivity.
+Time Taken: 0.99 seconds
+==================================================
+Message: I am very sad and disappointed by the news.
+Response: I'm sorry to hear that. Is there anything specific that is bringing you down that you would like to talk about?
+Time Taken: 0.85 seconds
+==================================================
+Message: I am so angry at the situation!
+Response: I’m sorry to hear that you're feeling that way. It’s okay to feel angry and frustrated, but try to find a healthy way to release those emotions. Talking to someone, practicing mindfulness or doing some physical activity can help in managing intense feelings. Remember that it’s okay to seek support or professional help if needed. Take care of yourself.
+Time Taken: 1.20 seconds
+==================================================
+Message: This is so scary and frightening.
+Response: It's understandable to feel scared and frightened in situations like this. It's important to remember to take deep breaths, try to stay calm, and seek support from others if needed. It's also important to prioritize your safety and well-being in any scary or frightening situation.
+Time Taken: 1.09 seconds
+==================================================
+Message: I am just so disgusted by what happened.
+Response: I'm so sorry to hear that you're feeling this way. It's completely understandable to feel disgusted by certain events or situations. If you'd like to talk about it further or explore ways to cope with these feelings, please feel free to share more details or reach out for support.
+Time Taken: 1.04 seconds
+==================================================
+Message: The sun is shining and the birds are singing. It's a beautiful day to be alive. I feel so grateful for all the wonderful things in my life. I have a loving family, great friends, and a job that I am passionate about. Days like today make me feel like all the hard work has paid off and I can truly appreciate the beauty of life.
+Response: 
+
+I take a deep breath and soak in the sunshine, feeling a sense of peace and contentment wash over me. I am grateful for the simple joys of life – like the feeling of warm sunlight on my skin and the sound of birds chirping in the trees.
+
+I make a mental note to cherish these moments and hold onto them when life gets hectic or challenging. It's important to remember to slow down and appreciate the small moments that bring us joy.
+
+As I continue to bask in the beauty of the day, I feel a renewed sense of gratitude and optimism for the future. Life is truly a gift, and I am determined to make the most of every moment. Today, I choose to focus on all the good in my life and let that positivity guide me through whatever may come my way.
+Time Taken: 3.06 seconds
+==================================================
+Message: Today I received some heartbreaking news. A dear friend of mine passed away unexpectedly. The shock and sorrow I feel are overwhelming. We had so many plans together, so many dreams left unfulfilled. It's hard to imagine life without them. This loss leaves a void that can never be filled.
+Response:  
+
+I will never forget the memories we shared, the laughter we had, and the support we gave each other. My friend was a light in my life, and their absence will be deeply felt.
+
+I will hold onto the love and friendship we shared, and carry their spirit with me always. Rest in peace, dear friend. You will be missed more than words can express.
+Time Taken: 1.84 seconds
+==================================================
+Message: I am furious about the latest policy changes at work. They were implemented without any consultation with the staff, and they make our jobs much harder. It feels like management doesn't care about our well-being or input. This kind of disregard is unacceptable, and I won't stand for it.
+Response:  It's completely understandable to feel frustrated and angry about being blindsided by major policy changes at work. It is important for management to involve employees in decisions that will directly impact their workload and well-being. It might be helpful to voice your concerns to management and request an explanation for the sudden changes. It's possible they may not have been aware of the negative impact these policies have had on the staff. Open communication is key in resolving issues like this. Remember to stay calm and professional when expressing your concerns, and approach the situation with a constructive mindset.
+Time Taken: 2.06 seconds
+==================================================
+Message: Walking through the dark alley, I could feel my heart racing. Every sound seemed amplified, and the shadows looked like they were moving. I couldn't shake the feeling that someone was following me. It was one of the most terrifying experiences I've ever had. I just wanted to get out of there as quickly as possible.
+Response: 
+
+As I picked up my pace, my footsteps echoed off the brick walls, making me feel even more exposed. I could hear the distant sound of laughter and music coming from a nearby bar, but it only served to remind me of how isolated and vulnerable I was in that moment.
+
+Suddenly, I heard the sound of shuffling footsteps behind me. My heart leaped into my throat as I quickened my pace, refusing to look back for fear of what I might see.
+
+I felt a cold hand grip my shoulder, and I let out a scream as I spun around, ready to defend myself.
+
+But to my relief, it was just a homeless man, asking for spare change. I quickly fished out a few coins and handed them to him, grateful for the distraction from my own anxieties.
+
+As I finally emerged from the alley and into the bustling city streets, I took a deep breath and thanked whatever higher power had been watching over me that night. I vowed never to walk through a deserted alley alone again, my heart still pounding in my chest as I made my way home.
+Time Taken: 2.76 seconds
+==================================================
+Message: The food at that restaurant was absolutely disgusting. The meat was undercooked, the vegetables were soggy, and there was a strange smell coming from the kitchen. I felt nauseous just being there. It's unacceptable to serve such poor quality food to customers.
+Response:  I immediately asked to speak to the manager and expressed my dissatisfaction with the meal. I demanded a refund and left the restaurant, vowing never to return. It's important for restaurants to prioritize the quality and safety of their food in order to provide a positive dining experience for their customers. This experience was truly disappointing and I will make sure to warn others about the poor quality of this restaurant's food.
+Time Taken: 1.45 seconds
+==================================================
